@@ -17,4 +17,3 @@ dependencies:
 - alias: preview
   name: rsvpapp
   repository: file://../rsvpapp
-
